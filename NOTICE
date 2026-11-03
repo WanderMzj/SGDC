@@ -1,0 +1,15 @@
+SGDC
+
+This repository vendors a small number of classes from the Metanome project
+(https://github.com/HPI-Information-Systems/Metanome), package
+de.metanome.algorithm_integration:
+
+  ColumnIdentifier, Operator, PredicateVariable,
+  AlgorithmExecutionException, input.InputIterationException
+
+They are copyright 2017 by the Metanome Project and licensed under the
+Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0).
+The original license headers are kept in the source files.
+
+The package ch.javasoft.bitset is derived from the Hydra / DCFinder code base
+and is kept under its original terms.
