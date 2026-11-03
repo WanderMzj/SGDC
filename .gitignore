@@ -1,6 +1,6 @@
-target/
-build/
-build_audit/
+/target/
+/build/
+/build_audit/
 *.class
 *.orig
 *.log
